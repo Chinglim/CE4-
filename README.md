@@ -8,6 +8,9 @@ Image:
 
 
 
+Explanation:First label the respective final memory location as mem1, mem2 and mem3. These will then be used later when keying into the programming wizard.
+
+Then load the respective value within to the respective final memory location.
 
 Verification: Demo carried out and verified by Cpt Sliva.
 
@@ -19,7 +22,9 @@ Images:
 
 
 
+Explanation: As seen in the ProgramBCodeListing diagram, the memory locations have been setted previously by Program A. Use those memory location to access the required information and do the necessary computation required. As shown in this diagram too, the hexadecimal 'E' is finally output at port 2, which further verify that the programme was carried out properly.
 
+ProgramBCodeListing-2 diagram will then explain for the rationale of the steps taken to carry out Program B. 
 
 Verification:Demo carried out and verified by CPT Sliva.
 
@@ -31,7 +36,9 @@ Purpose:Reading value from Input port 3, then display on Output Port 0. One less
         
 Images:
 
+Explanation: As seen in the ProgramCCodeListing diagram, the tracking of the value from Port 3 then displaying the value in Port 0, followed by the decrements of the value that is then subsequentially displayed in Port 1 and 2. As shown in this diagram too, the hexadecimal 'E' ,'D' and 'C' showed the decrement of value, displayed at the necessary output port. This then further verify that the program is carried out smoothly and properly as required.
 
+ProgramCCodeListing-2 diagram will then explain for the rationale of the steps taken to carry out Program B. 
 
 
 Verification:Demo carried out and verified by Cpt Silva.
