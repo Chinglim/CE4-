@@ -3,7 +3,9 @@
 ## Program A Code Listing-Simple Memory Manipulation
 Purpose: To write a program that stores the value $9 in location $B0, $8 in $C4 abd $B in $CB.(Target program end:$11)
 
-Image:![Program A Coding][ProgramACodeListings]
+Image:
+
+![Program A Coding](ProgramACodeListings.jpg)
 
 
 
@@ -18,7 +20,8 @@ Verification: Demo carried out and verified by Cpt Sliva.
 ## Program B Code Listing-Mathematics
 Purpose:To retrieve a value from $B0, doubles it, and subtracts 4. Then output value to Port 2.(Target program end:$0C)
 
-Images:
+Images:![Program B Coding](ProgramBCodeListings.jpg)
+       ![Program B Coding](ProgramBCodeListings-2.jpg)
 
 
 
@@ -34,7 +37,8 @@ Purpose:Reading value from Input port 3, then display on Output Port 0. One less
         and one less than Port 1 to be displayed on Port 2. Program will then decrements what is on Port 0,Port 1 
         and Port2, continue in an infinite loop.(Target program end:$10)
         
-Images:
+Images:![Program C Coding](ProgramCCodeListings.jpg)
+       ![Program C Coding](ProgramCCodeListings-2.jpg)
 
 Explanation: As seen in the ProgramCCodeListing diagram, the tracking of the value from Port 3 then displaying the value in Port 0, followed by the decrements of the value that is then subsequentially displayed in Port 1 and 2. As shown in this diagram too, the hexadecimal 'E' ,'D' and 'C' showed the decrement of value, displayed at the necessary output port. This then further verify that the program is carried out smoothly and properly as required.
 
