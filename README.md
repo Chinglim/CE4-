@@ -3,7 +3,7 @@
 ## Program A Code Listing-Simple Memory Manipulation
 Purpose: To write a program that stores the value $9 in location $B0, $8 in $C4 abd $B in $CB.(Target program end:$11)
 
-Image:
+Image:![Program A Coding][ProgramACodeListings]
 
 
 
